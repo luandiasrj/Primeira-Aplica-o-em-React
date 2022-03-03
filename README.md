@@ -5,12 +5,12 @@
   </p>
   
   <!--ts-->
-* [ℹ️ Sobre](#---sobre)
-* [⁉️ Motivo](#---motivo)
-* [🌱 Requisitos Mínimos](#---requisitos-m-nimos)
-* [🚀 Tecnologias Utilizadas](#---tecnologias-utilizadas)
-* [🔗 Como executar](#---como-executar)
-* [📝 Licença](#---licen-a)
+* [ℹ️ Sobre](#ℹ%EF%B8%8F-sobre)
+* [⁉️ Motivo](#%EF%B8%8F-motivo)
+* [🌱 Requisitos Mínimos](#-requisitos-mínimos)
+* [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+* [🔗 Como executar](#-como-executar)
+* [📝 Licença](#-licença)
   <!--te-->
 
 <p align="center">
