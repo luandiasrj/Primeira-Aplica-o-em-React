@@ -1,16 +1,20 @@
 <h2 align="center">Trabalhando com Componentes em React - #DIO</h2>
 
+<p align="center"><a href="https://www.dio.me/">
+  <img src="./images/logo-DIO.png" alt="Logo Digital Innovation One"></a>
+  </p>
+  
+  <!--ts-->
+* [ℹ️ Sobre](#---sobre)
+* [⁉️ Motivo](#---motivo)
+* [🌱 Requisitos Mínimos](#---requisitos-m-nimos)
+* [🚀 Tecnologias Utilizadas](#---tecnologias-utilizadas)
+* [🔗 Como executar](#---como-executar)
+* [📝 Licença](#---licen-a)
+  <!--te-->
+
 <p align="center">
-[![Logo Digital Innovation One](images/logo-DIO.png)](https://www.dio.me/)
-</p>
-
-
-[TOC]
-
-___
-
-<p align="center">
-[![Screenshot da aplicação](images/Screenshot.png)]
+<img src="./images/Screenshot.png" alt="Screenshot da aplicação">
 </p>
 
 ## ℹ️ Sobre
@@ -29,7 +33,7 @@ O curso *Trabalhando com Componentes em React* faz parte do *#[DIO's MRV Bootcam
 
 ## 🚀 Tecnologias Utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - JavaScript
 - ReactJS
@@ -42,7 +46,7 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório
-  ❯ git clone https://github.com/jerp86/react-dio.git
+  ❯ git clone https://github.com/luandiasrj/Primeira-Aplica-o-em-React.git
   # Entrar no diretório
   ❯ cd react-dio
 ```
@@ -60,15 +64,23 @@ Para instalar as dependências e iniciar o projeto:
 
 ## 📝 Licença
 <p align="center">
-[![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+  <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="License: CC BY 4.0"></a>
 <br />Este obra está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>.
+  
 </p>
 
----
+* * *
 <h4 align="center">
   Feito com ❤️ por luandiasrj 👋️ <a href="mailto:luandias@outlook.com">Entre em contato!</a>
 </h4>
+
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luan_Bernardo_Dias-0e76a8?style=flat&logoColor=white&logo=linkedin)](https://www.linkedin.com/in/luan-bernardo-dias/ "LinkedIn - Luan Bernardo Dias")
-[![Instagram](https://img.shields.io/badge/instagram-luandiasrj-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/luandiasrj/ "Instagram - luandiasrj")
+  
+<a href="https://www.linkedin.com/in/luan-bernardo-dias"/>
+<img src="https://img.shields.io/badge/LinkedIn-Luan_Bernardo_Dias-0e76a8?style=flat&logoColor=white&logo=linkedin" alt="LinkedIn - Luan Bernardo Dias"></a>
+
+<a href="https://www.instagram.com/luandiasrj/"/>  
+<img src="https://img.shields.io/badge/instagram-luandiasrj-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram - luandiasrj"></a>
+  
 </p>
